@@ -24,15 +24,15 @@ The core analysis focuses on **users who responded**, enabling a fair comparison
 ## Dataset Description
 The dataset was sourced from Kaggle and contains impression-level data from an online advertising experiment.
 
- `auction_id` - Unique impression identifier 
- `experiment` - Experiment group (`control` or `exposed`) 
- `date` - Date of exposure (YYYY-MM-DD) 
- `hour` - Hour of exposure (HH) 
- `device_make` - User device type 
- `platform_os` - Operating system identifier 
- `browser` - Browser used 
- `yes` - 1 if user answered "Yes" 
- `no` - 1 if user answered "No" 
+- `auction_id` - Unique impression identifier 
+- `experiment` - Experiment group (`control` or `exposed`) 
+- `date` - Date of exposure (YYYY-MM-DD) 
+- `hour` - Hour of exposure (HH) 
+- `device_make` - User device type 
+- `platform_os` - Operating system identifier 
+- `browser` - Browser used 
+- `yes` - 1 if user answered "Yes" 
+- `no` - 1 if user answered "No" 
 
 ## Methodology
 
