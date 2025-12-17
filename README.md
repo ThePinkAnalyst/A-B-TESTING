@@ -75,12 +75,12 @@ A logistic regression model was used to:
 
 
 ## Key Results
- Control response rate - Baseline 
- Exposed response rate - Higher than control 
- Absolute uplift - Statistically significant 
- Relative uplift - Meaningful improvement 
- P-value - < 0.05 
- Confidence interval - Excludes zero 
+ - Control response rate - Baseline
+ - Exposed response rate - Higher than control
+ - Absolute uplift - Statistically significant
+ - Relative uplift - Meaningful improvement
+ - P-value - < 0.05
+ - Confidence interval - Excludes zero 
 
 **Key Insight:**  
 Users exposed to the SmartAd were **significantly more likely** to respond positively than users shown the dummy ad.
